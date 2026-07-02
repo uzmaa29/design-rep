@@ -1,4 +1,3 @@
-A repository of UIUX works i've done <br>
 Each work is documented with UX reasoning, wireframes, and final UI designs.
 
 ## Repository Structure
